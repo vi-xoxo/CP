@@ -1,0 +1,1258 @@
+booking_id;destinasi;package_type;pax;price_per_pax;add_drone;total_price
+BK0000;Gili;Kayaking;7;246867;0;2253069
+BK0001;Gili;Snorkeling Gili;3;337498;0;1312494
+BK0002;Gili;Paddle Board;6;299041;0;2244246
+BK0003;Gili;Kayaking;9;492752;0;5334768
+BK0004;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0005;Gili;Snorkeling Gili;2;391699;0;1133398
+BK0006;Gili;Snorkeling Gili;2;374243;1;1398486
+BK0007;Gili;Paddle Board;1;300551;1;525551
+BK0008;Gili;Paddle Board;2;302283;0;604566
+BK0009;Gili;Snorkeling Gili;8;290397;0;3723176
+BK0010;Mentawai;Mentawai Open Trip;5;1800000;0;9375000
+BK0011;Gili;Snorkeling Gili;1;298984;1;548984
+BK0012;Mentawai;Mentawai Private Trip;1;2888519;0;2888519
+BK0013;Gili;Kayaking;7;370536;1;4343752
+BK0014;Mentawai;Mentawai Private Trip;5;2689570;0;13947850
+BK0015;Mentawai;Mentawai Private Trip;1;2414020;0;2414020
+BK0016;Mentawai;Mentawai Open Trip;3;1800000;0;5625000
+BK0017;Gili;Kayaking;7;549260;0;3844820
+BK0018;Mentawai;Mentawai Open Trip;2;1800000;1;4100000
+BK0019;Gili;Horse Riding;4;429997;1;2719988
+BK0020;Mentawai;Mentawai Open Trip;9;1800000;0;17100000
+BK0021;Gili;Horse Riding;8;415838;1;4526704
+BK0022;Mentawai;Mentawai Open Trip;5;1800000;1;9750000
+BK0023;Gili;Paddle Board;7;452228;0;3165596
+BK0024;Mentawai;Mentawai Private Trip;6;2680671;1;18034026
+BK0025;Gili;Kayaking;6;468452;0;2810712
+BK0026;Mentawai;Mentawai Private Trip;9;2810490;0;25969410
+BK0027;Mentawai;Mentawai Open Trip;3;1800000;0;5700000
+BK0028;Gili;Kayaking;7;462833;0;3764831
+BK0029;Gili;Paddle Board;3;247718;1;1193154
+BK0030;Gili;Paddle Board;5;217796;1;1838980
+BK0031;Gili;Kayaking;4;106295;0;1125180
+BK0032;Gili;Kayaking;6;284423;1;3206538
+BK0033;Gili;Kayaking;6;357186;1;3643116
+BK0034;Mentawai;Mentawai Private Trip;4;2258871;0;9035484
+BK0035;Gili;Paddle Board;6;216381;0;1298286
+BK0036;Mentawai;Mentawai Open Trip;1;1800000;0;1900000
+BK0037;Gili;Paddle Board;4;202946;0;1511784
+BK0038;Gili;Horse Riding;6;428274;0;2569644
+BK0039;Gili;Horse Riding;1;374019;0;549019
+BK0040;Gili;Paddle Board;9;263817;0;3949353
+BK0041;Gili;Kayaking;6;118070;1;2208420
+BK0042;Mentawai;Mentawai Open Trip;9;1800000;0;17100000
+BK0043;Gili;Horse Riding;2;279592;1;1059184
+BK0044;Gili;Snorkeling Gili;4;514512;1;2958048
+BK0045;Gili;Paddle Board;2;242038;0;634076
+BK0046;Gili;Kayaking;6;131024;0;1236144
+BK0047;Gili;Snorkeling Gili;8;501451;0;4611608
+BK0048;Mentawai;Mentawai Private Trip;3;2927975;0;9008925
+BK0049;Mentawai;Mentawai Private Trip;8;2544894;1;22959152
+BK0050;Gili;Snorkeling Gili;9;350235;1;6077115
+BK0051;Gili;Horse Riding;6;270056;0;1620336
+BK0052;Mentawai;Mentawai Private Trip;6;2452764;1;16216584
+BK0053;Gili;Paddle Board;9;455612;1;5450508
+BK0054;Gili;Paddle Board;5;456902;1;3034510
+BK0055;Gili;Horse Riding;4;421230;0;1684920
+BK0056;Gili;Paddle Board;4;127663;0;910652
+BK0057;Gili;Horse Riding;4;399143;0;1996572
+BK0058;Gili;Horse Riding;5;353691;1;3393455
+BK0059;Gili;Horse Riding;3;373633;0;1420899
+BK0060;Gili;Horse Riding;2;307458;1;914916
+BK0061;Gili;Horse Riding;8;355891;0;2847128
+BK0062;Gili;Paddle Board;8;409439;0;4675512
+BK0063;Gili;Paddle Board;8;319798;0;2558384
+BK0064;Mentawai;Mentawai Private Trip;9;2386141;0;23050269
+BK0065;Mentawai;Mentawai Private Trip;9;2925256;0;26327304
+BK0066;Gili;Paddle Board;5;226020;0;1630100
+BK0067;Gili;Paddle Board;9;363206;0;4168854
+BK0068;Mentawai;Mentawai Private Trip;5;2238102;1;12440510
+BK0069;Gili;Horse Riding;1;425333;0;500333
+BK0070;Gili;Horse Riding;5;304693;0;2023465
+BK0071;Gili;Snorkeling Gili;7;418152;0;3627064
+BK0072;Gili;Kayaking;3;115485;0;346455
+BK0073;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0074;Mentawai;Mentawai Private Trip;1;2748248;1;2973248
+BK0075;Gili;Snorkeling Gili;5;532703;0;3163515
+BK0076;Gili;Kayaking;9;214065;0;2826585
+BK0077;Mentawai;Mentawai Open Trip;6;1800000;0;11250000
+BK0078;Gili;Snorkeling Gili;6;536103;1;4566618
+BK0079;Gili;Horse Riding;2;283307;1;1216614
+BK0080;Gili;Paddle Board;9;440896;1;6218064
+BK0081;Gili;Paddle Board;3;149407;0;748221
+BK0082;Gili;Paddle Board;5;101015;0;880075
+BK0083;Mentawai;Mentawai Private Trip;9;2469114;0;23122026
+BK0084;Gili;Kayaking;1;100404;0;100404
+BK0085;Gili;Kayaking;3;150612;0;676836
+BK0086;Gili;Snorkeling Gili;9;288765;1;4848885
+BK0087;Mentawai;Mentawai Private Trip;8;2292193;1;20337544
+BK0088;Mentawai;Mentawai Private Trip;3;2818362;0;8455086
+BK0089;Gili;Horse Riding;9;434943;0;3914487
+BK0090;Mentawai;Mentawai Private Trip;3;2521638;0;7564914
+BK0091;Gili;Kayaking;3;437889;0;1538667
+BK0092;Mentawai;Mentawai Open Trip;3;1800000;0;5700000
+BK0093;Gili;Kayaking;1;382107;0;557107
+BK0094;Mentawai;Mentawai Open Trip;3;1800000;1;6375000
+BK0095;Gili;Snorkeling Gili;8;308243;0;2465944
+BK0096;Gili;Snorkeling Gili;2;278732;1;1207464
+BK0097;Mentawai;Mentawai Private Trip;6;2541396;0;15848376
+BK0098;Gili;Horse Riding;1;341865;0;441865
+BK0099;Mentawai;Mentawai Open Trip;1;1800000;0;1875000
+BK0100;Mentawai;Mentawai Open Trip;8;1800000;0;15200000
+BK0101;Gili;Paddle Board;8;358930;0;2871440
+BK0102;Mentawai;Mentawai Open Trip;2;1800000;1;4050000
+BK0103;Gili;Paddle Board;7;347736;1;4184152
+BK0104;Mentawai;Mentawai Private Trip;3;2806440;1;8869320
+BK0105;Gili;Kayaking;8;181264;0;2250112
+BK0106;Gili;Kayaking;2;488538;0;1327076
+BK0107;Gili;Snorkeling Gili;6;251605;0;2109630
+BK0108;Gili;Kayaking;8;258518;0;2868144
+BK0109;Mentawai;Mentawai Private Trip;6;2846465;0;17528790
+BK0110;Gili;Horse Riding;8;263234;0;2105872
+BK0111;Gili;Paddle Board;5;237541;1;1937705
+BK0112;Gili;Snorkeling Gili;1;354537;1;504537
+BK0113;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0114;Gili;Snorkeling Gili;2;255287;0;510574
+BK0115;Gili;Kayaking;8;197829;0;2382632
+BK0116;Gili;Snorkeling Gili;9;446513;0;4693617
+BK0117;Gili;Snorkeling Gili;8;507802;0;4662416
+BK0118;Gili;Horse Riding;3;405002;0;1515006
+BK0119;Mentawai;Mentawai Private Trip;2;2390279;0;4780558
+BK0120;Gili;Paddle Board;1;250168;0;250168
+BK0121;Gili;Horse Riding;3;291157;0;1098471
+BK0122;Mentawai;Mentawai Private Trip;1;2259379;0;2434379
+BK0123;Gili;Snorkeling Gili;5;282154;1;2160770
+BK0124;Gili;Snorkeling Gili;1;296197;1;521197
+BK0125;Gili;Snorkeling Gili;8;482604;0;3860832
+BK0126;Mentawai;Mentawai Private Trip;3;2537827;0;7613481
+BK0127;Mentawai;Mentawai Open Trip;8;1800000;0;15200000
+BK0128;Gili;Horse Riding;8;375885;0;3807080
+BK0129;Gili;Paddle Board;5;160279;0;1301395
+BK0130;Gili;Paddle Board;8;234869;1;4478952
+BK0131;Mentawai;Mentawai Private Trip;4;2848373;0;12093492
+BK0132;Mentawai;Mentawai Private Trip;5;2867054;0;14710270
+BK0133;Gili;Snorkeling Gili;9;290738;0;2616642
+BK0134;Gili;Horse Riding;2;286368;1;1022736
+BK0135;Gili;Paddle Board;9;429670;0;3867030
+BK0136;Gili;Horse Riding;2;353892;0;907784
+BK0137;Gili;Kayaking;6;196731;1;3130386
+BK0138;Mentawai;Mentawai Private Trip;7;2333554;0;17034878
+BK0139;Mentawai;Mentawai Open Trip;8;1800000;1;15600000
+BK0140;Mentawai;Mentawai Open Trip;6;1800000;0;11850000
+BK0141;Gili;Paddle Board;7;402950;1;3870650
+BK0142;Gili;Paddle Board;7;313046;0;3416322
+BK0143;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0144;Mentawai;Mentawai Private Trip;3;2234911;0;6929733
+BK0145;Gili;Paddle Board;7;147057;1;3304399
+BK0146;Mentawai;Mentawai Private Trip;3;2344931;0;7259793
+BK0147;Gili;Kayaking;2;194914;0;589828
+BK0148;Mentawai;Mentawai Private Trip;9;2592417;1;24681753
+BK0149;Mentawai;Mentawai Open Trip;1;1800000;0;1800000
+BK0150;Mentawai;Mentawai Private Trip;1;2883889;0;2958889
+BK0151;Gili;Kayaking;6;248757;1;2392542
+BK0152;Gili;Kayaking;5;444138;0;2220690
+BK0153;Mentawai;Mentawai Private Trip;2;2428504;1;5507008
+BK0154;Gili;Horse Riding;9;331182;1;4330638
+BK0155;Gili;Horse Riding;1;285737;0;460737
+BK0156;Gili;Horse Riding;1;400322;0;500322
+BK0157;Gili;Kayaking;4;322320;0;1589280
+BK0158;Mentawai;Mentawai Private Trip;8;2466997;0;20535976
+BK0159;Mentawai;Mentawai Open Trip;3;1800000;0;5925000
+BK0160;Gili;Horse Riding;1;304912;0;479912
+BK0161;Gili;Snorkeling Gili;2;336123;1;1122246
+BK0162;Mentawai;Mentawai Open Trip;1;1800000;0;1975000
+BK0163;Mentawai;Mentawai Private Trip;8;2593554;0;20748432
+BK0164;Gili;Kayaking;9;286833;1;3931497
+BK0165;Gili;Kayaking;7;187833;1;2889831
+BK0166;Gili;Horse Riding;8;291786;0;3134288
+BK0167;Gili;Horse Riding;7;337312;0;2361184
+BK0168;Gili;Horse Riding;7;273510;0;1914570
+BK0169;Gili;Snorkeling Gili;9;519708;0;5352372
+BK0170;Mentawai;Mentawai Open Trip;7;1800000;0;13825000
+BK0171;Gili;Snorkeling Gili;2;289974;0;779948
+BK0172;Gili;Kayaking;9;395183;1;5806647
+BK0173;Gili;Horse Riding;1;282733;0;457733
+BK0174;Gili;Horse Riding;5;421672;0;2983360
+BK0175;Gili;Paddle Board;9;451575;0;4739175
+BK0176;Gili;Kayaking;6;231878;0;1991268
+BK0177;Mentawai;Mentawai Open Trip;8;1800000;1;17000000
+BK0178;Gili;Kayaking;3;245271;1;1185813
+BK0179;Gili;Paddle Board;1;388316;0;388316
+BK0180;Mentawai;Mentawai Private Trip;3;2523557;0;7570671
+BK0181;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0182;Gili;Kayaking;9;408686;0;4578174
+BK0183;Gili;Horse Riding;6;402826;0;3016956
+BK0184;Mentawai;Mentawai Open Trip;1;1800000;0;1800000
+BK0185;Gili;Paddle Board;8;111303;1;2090424
+BK0186;Gili;Horse Riding;8;448747;0;3589976
+BK0187;Mentawai;Mentawai Open Trip;9;1800000;0;17100000
+BK0188;Mentawai;Mentawai Open Trip;9;1800000;1;18225000
+BK0189;Mentawai;Mentawai Private Trip;7;2695518;0;19393626
+BK0190;Mentawai;Mentawai Open Trip;1;1800000;1;2025000
+BK0191;Mentawai;Mentawai Open Trip;3;1800000;0;5625000
+BK0192;Mentawai;Mentawai Open Trip;5;1800000;0;9375000
+BK0193;Gili;Horse Riding;1;373797;0;548797
+BK0194;Gili;Paddle Board;2;430033;0;1010066
+BK0195;Gili;Horse Riding;7;307372;0;2851604
+BK0196;Gili;Paddle Board;7;111745;0;1482215
+BK0197;Gili;Snorkeling Gili;7;398554;1;3839878
+BK0198;Gili;Kayaking;3;348656;0;1045968
+BK0199;Gili;Horse Riding;4;298901;1;2495604
+BK0200;Mentawai;Mentawai Private Trip;9;2544855;0;24478695
+BK0201;Gili;Kayaking;5;501927;0;2509635
+BK0202;Mentawai;Mentawai Open Trip;5;1800000;1;10625000
+BK0203;Gili;Snorkeling Gili;7;523680;1;5415760
+BK0204;Gili;Paddle Board;5;411412;0;2932060
+BK0205;Mentawai;Mentawai Private Trip;2;2357661;1;5015322
+BK0206;Mentawai;Mentawai Private Trip;6;2645864;1;17375184
+BK0207;Gili;Snorkeling Gili;6;346347;0;2528082
+BK0208;Mentawai;Mentawai Private Trip;1;2376076;0;2476076
+BK0209;Mentawai;Mentawai Private Trip;2;2851406;1;6002812
+BK0210;Gili;Kayaking;6;315048;1;2790288
+BK0211;Gili;Paddle Board;8;464359;0;3714872
+BK0212;Gili;Kayaking;6;305209;1;3331254
+BK0213;Mentawai;Mentawai Private Trip;2;2411957;1;5273914
+BK0214;Gili;Horse Riding;7;373629;0;3840403
+BK0215;Gili;Paddle Board;2;467505;0;935010
+BK0216;Gili;Paddle Board;3;325314;1;1725942
+BK0217;Gili;Paddle Board;5;159321;0;1671605
+BK0218;Gili;Horse Riding;4;349259;0;1397036
+BK0219;Mentawai;Mentawai Open Trip;5;1800000;0;9000000
+BK0220;Gili;Snorkeling Gili;3;529922;0;1889766
+BK0221;Gili;Kayaking;1;520706;0;520706
+BK0222;Gili;Paddle Board;2;395286;1;1440572
+BK0223;Gili;Paddle Board;8;397190;0;4577520
+BK0224;Mentawai;Mentawai Open Trip;3;1800000;0;5700000
+BK0225;Gili;Snorkeling Gili;3;283397;0;1150191
+BK0226;Gili;Snorkeling Gili;1;495011;1;820011
+BK0227;Gili;Horse Riding;5;432958;0;2164790
+BK0228;Gili;Kayaking;6;231691;1;2890146
+BK0229;Mentawai;Mentawai Private Trip;4;2986713;1;12946852
+BK0230;Mentawai;Mentawai Open Trip;5;1800000;1;10250000
+BK0231;Mentawai;Mentawai Private Trip;8;2959034;0;24272272
+BK0232;Gili;Kayaking;2;109110;1;518220
+BK0233;Mentawai;Mentawai Open Trip;8;1800000;1;16400000
+BK0234;Gili;Kayaking;2;148320;0;496640
+BK0235;Gili;Snorkeling Gili;8;478071;0;3824568
+BK0236;Gili;Paddle Board;5;258056;1;2040280
+BK0237;Gili;Kayaking;9;218516;0;1966644
+BK0238;Gili;Paddle Board;4;366258;0;1765032
+BK0239;Mentawai;Mentawai Open Trip;6;1800000;0;10800000
+BK0240;Mentawai;Mentawai Open Trip;3;1800000;1;6375000
+BK0241;Gili;Horse Riding;3;441305;0;1323915
+BK0242;Gili;Horse Riding;2;281348;1;1012696
+BK0243;Gili;Paddle Board;4;435914;0;1743656
+BK0244;Gili;Paddle Board;5;426250;0;2506250
+BK0245;Mentawai;Mentawai Open Trip;3;1800000;0;5925000
+BK0246;Gili;Horse Riding;4;257151;0;1028604
+BK0247;Gili;Paddle Board;8;221999;0;2575992
+BK0248;Gili;Snorkeling Gili;9;336365;1;5277285
+BK0249;Gili;Kayaking;8;255683;0;2045464
+BK0250;Mentawai;Mentawai Open Trip;9;1800000;0;17775000
+BK0251;Mentawai;Mentawai Open Trip;8;1800000;0;15800000
+BK0252;Gili;Snorkeling Gili;8;388299;0;3906392
+BK0253;Mentawai;Mentawai Open Trip;5;1800000;0;9375000
+BK0254;Gili;Snorkeling Gili;1;318388;0;493388
+BK0255;Mentawai;Mentawai Private Trip;9;2993853;1;28294677
+BK0256;Gili;Kayaking;6;394054;1;3864324
+BK0257;Mentawai;Mentawai Open Trip;7;1800000;1;14175000
+BK0258;Mentawai;Mentawai Open Trip;8;1800000;0;15200000
+BK0259;Gili;Horse Riding;5;449083;1;2995415
+BK0260;Gili;Paddle Board;3;174069;0;522207
+BK0261;Mentawai;Mentawai Private Trip;4;2559687;1;10838748
+BK0262;Mentawai;Mentawai Private Trip;9;2491126;0;23095134
+BK0263;Gili;Horse Riding;8;420963;0;4167704
+BK0264;Gili;Kayaking;6;322724;0;1936344
+BK0265;Gili;Paddle Board;2;358503;0;867006
+BK0266;Gili;Kayaking;4;219264;0;1577056
+BK0267;Gili;Snorkeling Gili;1;288067;0;388067
+BK0268;Gili;Kayaking;5;321427;0;2107135
+BK0269;Gili;Kayaking;3;291703;0;1400109
+BK0270;Mentawai;Mentawai Open Trip;5;1800000;1;9750000
+BK0271;Gili;Paddle Board;9;487009;0;5058081
+BK0272;Mentawai;Mentawai Private Trip;6;2345788;0;14524728
+BK0273;Gili;Snorkeling Gili;5;486513;1;3682565
+BK0274;Gili;Paddle Board;4;351537;0;2106148
+BK0275;Mentawai;Mentawai Open Trip;2;1800000;1;4100000
+BK0276;Mentawai;Mentawai Private Trip;9;2450497;0;22729473
+BK0277;Mentawai;Mentawai Open Trip;7;1800000;1;14875000
+BK0278;Mentawai;Mentawai Private Trip;3;2337478;0;7537434
+BK0279;Mentawai;Mentawai Private Trip;4;2924188;0;12396752
+BK0280;Gili;Horse Riding;4;307022;0;1928088
+BK0281;Mentawai;Mentawai Open Trip;6;1800000;0;11850000
+BK0282;Gili;Snorkeling Gili;5;404249;0;2021245
+BK0283;Mentawai;Mentawai Open Trip;5;1800000;1;10625000
+BK0284;Gili;Kayaking;5;220575;1;2227875
+BK0285;Gili;Kayaking;2;383367;0;1116734
+BK0286;Gili;Snorkeling Gili;8;354576;1;4636608
+BK0287;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0288;Mentawai;Mentawai Private Trip;8;2878832;1;24830656
+BK0289;Gili;Paddle Board;1;253686;1;503686
+BK0290;Gili;Paddle Board;3;485431;0;1681293
+BK0291;Mentawai;Mentawai Private Trip;4;2603082;0;10712328
+BK0292;Gili;Paddle Board;5;338340;1;3316700
+BK0293;Gili;Paddle Board;1;248702;0;323702
+BK0294;Gili;Snorkeling Gili;4;347661;1;1990644
+BK0295;Gili;Snorkeling Gili;2;284964;0;569928
+BK0296;Gili;Snorkeling Gili;2;438938;1;1327876
+BK0297;Mentawai;Mentawai Private Trip;8;2385165;1;20281320
+BK0298;Gili;Horse Riding;3;348989;1;1496967
+BK0299;Gili;Kayaking;1;137643;0;237643
+BK0300;Gili;Kayaking;8;417677;0;4141416
+BK0301;Gili;Horse Riding;9;293541;0;3541869
+BK0302;Gili;Paddle Board;4;255930;0;1023720
+BK0303;Mentawai;Mentawai Private Trip;8;2732994;1;23863952
+BK0304;Gili;Paddle Board;9;156447;1;3658023
+BK0305;Gili;Kayaking;1;400931;0;400931
+BK0306;Mentawai;Mentawai Open Trip;2;1800000;0;3600000
+BK0307;Mentawai;Mentawai Private Trip;6;2891211;1;18697266
+BK0308;Gili;Paddle Board;3;320894;0;1187682
+BK0309;Gili;Paddle Board;4;207539;0;1230156
+BK0310;Mentawai;Mentawai Private Trip;5;2280073;0;11775365
+BK0311;Gili;Kayaking;7;168099;1;2226693
+BK0312;Gili;Horse Riding;4;286727;0;1446908
+BK0313;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0314;Gili;Paddle Board;5;275006;0;2250030
+BK0315;Mentawai;Mentawai Open Trip;1;1800000;0;1900000
+BK0316;Mentawai;Mentawai Open Trip;9;1800000;1;17550000
+BK0317;Mentawai;Mentawai Open Trip;6;1800000;0;11250000
+BK0318;Gili;Kayaking;4;326876;1;1907504
+BK0319;Mentawai;Mentawai Private Trip;6;2722220;0;16783320
+BK0320;Gili;Paddle Board;3;492493;0;1777479
+BK0321;Mentawai;Mentawai Open Trip;5;1800000;0;9500000
+BK0322;Mentawai;Mentawai Open Trip;3;1800000;0;5625000
+BK0323;Gili;Snorkeling Gili;9;388782;1;6424038
+BK0324;Mentawai;Mentawai Open Trip;6;1800000;1;11700000
+BK0325;Mentawai;Mentawai Private Trip;6;2955678;1;19684068
+BK0326;Mentawai;Mentawai Private Trip;4;2502929;0;10411716
+BK0327;Gili;Horse Riding;6;374302;0;2245812
+BK0328;Mentawai;Mentawai Open Trip;8;1800000;0;15000000
+BK0329;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0330;Gili;Snorkeling Gili;9;387660;1;6413940
+BK0331;Gili;Kayaking;7;264437;0;2551059
+BK0332;Gili;Snorkeling Gili;9;295232;1;4007088
+BK0333;Mentawai;Mentawai Private Trip;5;2807745;0;14538725
+BK0334;Gili;Horse Riding;7;343269;1;4152883
+BK0335;Mentawai;Mentawai Private Trip;3;2824446;0;8473338
+BK0336;Gili;Paddle Board;4;261645;1;1646580
+BK0337;Gili;Kayaking;9;106823;0;2536407
+BK0338;Mentawai;Mentawai Open Trip;3;1800000;0;5700000
+BK0339;Gili;Kayaking;9;282650;1;5468850
+BK0340;Gili;Snorkeling Gili;9;511716;0;4605444
+BK0341;Gili;Horse Riding;4;335445;0;1741780
+BK0342;Mentawai;Mentawai Private Trip;8;2571616;1;22572928
+BK0343;Gili;Snorkeling Gili;5;317843;0;1964215
+BK0344;Gili;Snorkeling Gili;7;304400;0;2830800
+BK0345;Mentawai;Mentawai Private Trip;7;2871514;0;20625598
+BK0346;Gili;Paddle Board;5;395138;0;1975690
+BK0347;Gili;Kayaking;9;523306;0;5609754
+BK0348;Gili;Paddle Board;5;220987;1;2729935
+BK0349;Gili;Horse Riding;2;283866;0;767732
+BK0350;Gili;Kayaking;3;289139;1;1842417
+BK0351;Mentawai;Mentawai Private Trip;7;2800517;1;21178619
+BK0352;Gili;Kayaking;3;352419;1;2032257
+BK0353;Gili;Horse Riding;9;431172;0;3880548
+BK0354;Gili;Paddle Board;2;150290;1;950580
+BK0355;Gili;Paddle Board;4;186516;0;1046064
+BK0356;Gili;Horse Riding;4;389544;0;1958176
+BK0357;Mentawai;Mentawai Open Trip;3;1800000;0;5625000
+BK0358;Mentawai;Mentawai Open Trip;7;1800000;0;13125000
+BK0359;Mentawai;Mentawai Private Trip;4;2335565;0;10042260
+BK0360;Gili;Horse Riding;1;327175;0;502175
+BK0361;Mentawai;Mentawai Open Trip;9;1800000;0;17775000
+BK0362;Gili;Snorkeling Gili;8;367886;1;4743088
+BK0363;Gili;Paddle Board;3;428458;0;1510374
+BK0364;Gili;Snorkeling Gili;5;528432;0;2642160
+BK0365;Mentawai;Mentawai Open Trip;8;1800000;1;16200000
+BK0366;Gili;Kayaking;6;210155;1;3210930
+BK0367;Gili;Kayaking;6;245639;0;1473834
+BK0368;Gili;Snorkeling Gili;7;398934;1;3842538
+BK0369;Gili;Kayaking;2;462455;0;1124910
+BK0370;Gili;Horse Riding;6;407584;0;2895504
+BK0371;Gili;Paddle Board;1;211032;0;311032
+BK0372;Mentawai;Mentawai Open Trip;1;1800000;1;2125000
+BK0373;Gili;Snorkeling Gili;4;515972;0;2763888
+BK0374;Gili;Kayaking;8;343236;0;2745888
+BK0375;Gili;Snorkeling Gili;7;272054;0;2429378
+BK0376;Gili;Horse Riding;1;425271;0;500271
+BK0377;Gili;Paddle Board;1;357324;1;582324
+BK0378;Gili;Paddle Board;7;234832;1;3393824
+BK0379;Gili;Kayaking;2;329010;0;1008020
+BK0380;Gili;Kayaking;9;423494;0;4711446
+BK0381;Gili;Paddle Board;2;432338;0;1014676
+BK0382;Mentawai;Mentawai Private Trip;2;2361445;0;4722890
+BK0383;Mentawai;Mentawai Open Trip;3;1800000;1;6150000
+BK0384;Gili;Horse Riding;1;369006;0;544006
+BK0385;Mentawai;Mentawai Open Trip;2;1800000;1;4100000
+BK0386;Mentawai;Mentawai Private Trip;2;2873218;0;5896436
+BK0387;Mentawai;Mentawai Open Trip;9;1800000;1;19125000
+BK0388;Gili;Horse Riding;8;271312;0;2770496
+BK0389;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0390;Gili;Paddle Board;2;308559;0;817118
+BK0391;Gili;Horse Riding;8;400871;0;4606968
+BK0392;Gili;Paddle Board;6;303199;1;3769194
+BK0393;Gili;Snorkeling Gili;5;454923;0;2274615
+BK0394;Gili;Horse Riding;4;309500;0;1638000
+BK0395;Gili;Paddle Board;2;108556;0;217112
+BK0396;Gili;Snorkeling Gili;1;250340;0;325340
+BK0397;Mentawai;Mentawai Private Trip;8;2762060;1;23296480
+BK0398;Gili;Paddle Board;2;174965;1;999930
+BK0399;Gili;Horse Riding;1;285428;1;435428
+BK0400;Gili;Snorkeling Gili;6;513852;0;3533112
+BK0401;Mentawai;Mentawai Private Trip;8;2770387;0;22163096
+BK0402;Gili;Paddle Board;4;195071;0;1480284
+BK0403;Gili;Kayaking;8;364598;0;3716784
+BK0404;Gili;Paddle Board;3;286292;0;858876
+BK0405;Mentawai;Mentawai Private Trip;7;2908770;1;22111390
+BK0406;Gili;Paddle Board;1;202239;0;377239
+BK0407;Gili;Snorkeling Gili;7;349441;0;2446087
+BK0408;Gili;Paddle Board;5;413295;1;3316475
+BK0409;Gili;Kayaking;3;177842;0;1058526
+BK0410;Gili;Snorkeling Gili;1;413864;1;563864
+BK0411;Gili;Snorkeling Gili;9;261390;0;3927510
+BK0412;Mentawai;Mentawai Open Trip;2;1800000;0;3950000
+BK0413;Gili;Horse Riding;3;405394;0;1441182
+BK0414;Mentawai;Mentawai Private Trip;3;2696762;0;8390286
+BK0415;Gili;Horse Riding;6;361041;1;4116246
+BK0416;Mentawai;Mentawai Private Trip;8;2348694;0;19589552
+BK0417;Mentawai;Mentawai Private Trip;1;2854224;0;2954224
+BK0418;Mentawai;Mentawai Open Trip;6;1800000;0;10800000
+BK0419;Gili;Kayaking;4;220263;0;1581052
+BK0420;Gili;Kayaking;5;114743;0;1073715
+BK0421;Gili;Kayaking;8;302193;1;4417544
+BK0422;Gili;Kayaking;9;541904;0;4877136
+BK0423;Mentawai;Mentawai Open Trip;8;1800000;1;16400000
+BK0424;Gili;Snorkeling Gili;9;269008;0;2421072
+BK0425;Gili;Kayaking;3;536364;0;1834092
+BK0426;Gili;Kayaking;7;270201;0;2416407
+BK0427;Gili;Paddle Board;7;447860;1;5410020
+BK0428;Mentawai;Mentawai Private Trip;4;2835310;1;11941240
+BK0429;Mentawai;Mentawai Open Trip;1;1800000;0;1975000
+BK0430;Gili;Paddle Board;3;367499;0;1402497
+BK0431;Mentawai;Mentawai Private Trip;2;2543567;0;5087134
+BK0432;Gili;Snorkeling Gili;4;464764;1;2459056
+BK0433;Gili;Snorkeling Gili;6;495739;0;3574434
+BK0434;Gili;Paddle Board;5;340891;1;2954455
+BK0435;Gili;Paddle Board;5;341225;0;2581125
+BK0436;Gili;Kayaking;4;394025;0;1976100
+BK0437;Mentawai;Mentawai Private Trip;4;2879447;0;12217788
+BK0438;Mentawai;Mentawai Open Trip;1;1800000;1;2125000
+BK0439;Gili;Snorkeling Gili;6;321354;1;3878124
+BK0440;Mentawai;Mentawai Open Trip;9;1800000;0;17775000
+BK0441;Gili;Paddle Board;5;281196;1;2155980
+BK0442;Gili;Kayaking;9;128151;0;2728359
+BK0443;Gili;Horse Riding;2;337265;0;1024530
+BK0444;Gili;Paddle Board;8;198934;0;1591472
+BK0445;Gili;Snorkeling Gili;1;419530;0;419530
+BK0446;Mentawai;Mentawai Private Trip;5;2911111;0;14555555
+BK0447;Mentawai;Mentawai Private Trip;6;2748277;0;17539662
+BK0448;Gili;Horse Riding;5;255939;1;2904695
+BK0449;Mentawai;Mentawai Open Trip;2;1800000;0;3600000
+BK0450;Gili;Paddle Board;6;401265;0;3457590
+BK0451;Gili;Kayaking;8;439371;1;4714968
+BK0452;Gili;Paddle Board;6;128328;0;769968
+BK0453;Mentawai;Mentawai Private Trip;9;2729739;0;25467651
+BK0454;Gili;Horse Riding;6;439699;0;2638194
+BK0455;Gili;Horse Riding;5;318431;0;2092155
+BK0456;Gili;Kayaking;4;211086;0;1244344
+BK0457;Mentawai;Mentawai Open Trip;6;1800000;1;12750000
+BK0458;Gili;Paddle Board;5;228727;0;1518635
+BK0459;Mentawai;Mentawai Open Trip;9;1800000;0;17100000
+BK0460;Gili;Kayaking;6;140695;0;1444170
+BK0461;Mentawai;Mentawai Private Trip;1;2733459;1;3058459
+BK0462;Gili;Kayaking;1;415665;0;490665
+BK0463;Mentawai;Mentawai Private Trip;4;2953494;0;12213976
+BK0464;Mentawai;Mentawai Private Trip;6;2505505;0;15033030
+BK0465;Mentawai;Mentawai Open Trip;3;1800000;0;5925000
+BK0466;Gili;Paddle Board;7;294886;0;2064202
+BK0467;Gili;Snorkeling Gili;4;532844;0;2531376
+BK0468;Gili;Paddle Board;4;425497;0;2101988
+BK0469;Gili;Paddle Board;4;162433;1;1249732
+BK0470;Gili;Paddle Board;8;346038;0;2768304
+BK0471;Mentawai;Mentawai Open Trip;9;1800000;0;16875000
+BK0472;Gili;Kayaking;7;447220;0;4355540
+BK0473;Gili;Snorkeling Gili;6;401538;0;3459228
+BK0474;Mentawai;Mentawai Private Trip;5;2749999;0;13749995
+BK0475;Gili;Paddle Board;7;226479;0;1585353
+BK0476;Mentawai;Mentawai Open Trip;7;1800000;1;14350000
+BK0477;Mentawai;Mentawai Open Trip;1;1800000;0;1900000
+BK0478;Mentawai;Mentawai Open Trip;5;1800000;0;9500000
+BK0479;Gili;Snorkeling Gili;8;532727;1;6061816
+BK0480;Mentawai;Mentawai Open Trip;2;1800000;1;4250000
+BK0481;Mentawai;Mentawai Private Trip;4;2628276;0;10913104
+BK0482;Gili;Horse Riding;1;355410;0;455410
+BK0483;Gili;Horse Riding;8;254173;0;3433384
+BK0484;Gili;Snorkeling Gili;3;320533;0;1486599
+BK0485;Gili;Snorkeling Gili;6;492188;1;3853128
+BK0486;Mentawai;Mentawai Open Trip;4;1800000;0;7200000
+BK0487;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0488;Mentawai;Mentawai Open Trip;3;1800000;1;6375000
+BK0489;Gili;Snorkeling Gili;5;309722;0;2048610
+BK0490;Mentawai;Mentawai Open Trip;5;1800000;0;9875000
+BK0491;Gili;Paddle Board;6;352100;0;2112600
+BK0492;Mentawai;Mentawai Open Trip;7;1800000;0;12600000
+BK0493;Gili;Snorkeling Gili;8;301913;1;4415304
+BK0494;Gili;Snorkeling Gili;2;487113;1;1424226
+BK0495;Gili;Horse Riding;1;376155;1;701155
+BK0496;Mentawai;Mentawai Open Trip;8;1800000;0;15000000
+BK0497;Gili;Paddle Board;6;312954;0;2927724
+BK0498;Mentawai;Mentawai Private Trip;2;2492253;0;5184506
+BK0499;Gili;Snorkeling Gili;1;503279;0;603279
+BK0500;Gili;Horse Riding;4;324816;0;1599264
+BK0501;Mentawai;Mentawai Private Trip;3;2978799;0;9461397
+BK0502;Gili;Horse Riding;1;310272;0;310272
+BK0503;Gili;Kayaking;4;176872;0;1007488
+BK0504;Mentawai;Mentawai Open Trip;2;1800000;1;3900000
+BK0505;Gili;Paddle Board;4;431356;0;2025424
+BK0506;Gili;Kayaking;9;191176;0;3295584
+BK0507;Gili;Horse Riding;7;382206;0;3900442
+BK0508;Gili;Snorkeling Gili;2;362935;0;925870
+BK0509;Gili;Snorkeling Gili;2;284397;0;768794
+BK0510;Mentawai;Mentawai Private Trip;3;2562441;1;8362323
+BK0511;Gili;Horse Riding;1;424588;1;674588
+BK0512;Gili;Snorkeling Gili;9;393927;0;4445343
+BK0513;Mentawai;Mentawai Open Trip;8;1800000;0;15200000
+BK0514;Gili;Paddle Board;9;310124;1;5041116
+BK0515;Mentawai;Mentawai Open Trip;1;1800000;0;1875000
+BK0516;Mentawai;Mentawai Open Trip;6;1800000;1;12300000
+BK0517;Mentawai;Mentawai Private Trip;7;2657666;0;19828662
+BK0518;Gili;Kayaking;4;102187;0;808748
+BK0519;Mentawai;Mentawai Open Trip;4;1800000;1;7800000
+BK0520;Mentawai;Mentawai Private Trip;1;2281257;1;2531257
+BK0521;Gili;Horse Riding;6;363650;0;2181900
+BK0522;Mentawai;Mentawai Open Trip;7;1800000;0;12600000
+BK0523;Gili;Paddle Board;6;290920;0;2795520
+BK0524;Gili;Snorkeling Gili;1;359814;0;434814
+BK0525;Gili;Paddle Board;6;350144;0;3150864
+BK0526;Mentawai;Mentawai Open Trip;3;1800000;0;5625000
+BK0527;Gili;Horse Riding;7;319166;0;2234162
+BK0528;Mentawai;Mentawai Private Trip;9;2215534;0;20839806
+BK0529;Gili;Snorkeling Gili;2;411121;0;972242
+BK0530;Gili;Kayaking;1;522132;0;622132
+BK0531;Gili;Horse Riding;7;370076;1;3640532
+BK0532;Mentawai;Mentawai Open Trip;1;1800000;1;2050000
+BK0533;Gili;Snorkeling Gili;5;391727;1;2708635
+BK0534;Gili;Kayaking;1;484092;1;809092
+BK0535;Gili;Paddle Board;7;100717;0;705019
+BK0536;Gili;Snorkeling Gili;5;287405;0;2312025
+BK0537;Mentawai;Mentawai Private Trip;6;2251717;0;13510302
+BK0538;Mentawai;Mentawai Private Trip;1;2761836;0;2836836
+BK0539;Gili;Kayaking;3;179698;0;539094
+BK0540;Mentawai;Mentawai Open Trip;4;1800000;1;7800000
+BK0541;Gili;Horse Riding;2;436684;1;1173368
+BK0542;Mentawai;Mentawai Open Trip;5;1800000;0;9875000
+BK0543;Gili;Paddle Board;7;135931;0;951517
+BK0544;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0545;Gili;Snorkeling Gili;6;266999;1;3101994
+BK0546;Gili;Paddle Board;1;415097;0;415097
+BK0547;Mentawai;Mentawai Private Trip;1;2312701;0;2387701
+BK0548;Gili;Paddle Board;5;361497;1;2557485
+BK0549;Gili;Snorkeling Gili;4;375814;1;2503256
+BK0550;Mentawai;Mentawai Open Trip;6;1800000;0;10800000
+BK0551;Gili;Paddle Board;2;447823;1;1195646
+BK0552;Gili;Horse Riding;7;262391;0;2536737
+BK0553;Mentawai;Mentawai Private Trip;6;2686675;0;16120050
+BK0554;Gili;Kayaking;3;390446;1;2146338
+BK0555;Mentawai;Mentawai Open Trip;3;1800000;1;6375000
+BK0556;Gili;Snorkeling Gili;6;507438;0;3494628
+BK0557;Gili;Kayaking;3;354466;0;1363398
+BK0558;Gili;Snorkeling Gili;3;391994;0;1475982
+BK0559;Gili;Paddle Board;8;367885;0;2943080
+BK0560;Mentawai;Mentawai Open Trip;5;1800000;0;9000000
+BK0561;Gili;Kayaking;9;518829;0;5569461
+BK0562;Gili;Horse Riding;8;428646;0;3429168
+BK0563;Mentawai;Mentawai Open Trip;9;1800000;1;17550000
+BK0564;Mentawai;Mentawai Private Trip;8;2462091;0;20296728
+BK0565;Mentawai;Mentawai Private Trip;2;2414127;0;4828254
+BK0566;Mentawai;Mentawai Private Trip;6;2399298;1;15745788
+BK0567;Gili;Horse Riding;4;273989;0;1395956
+BK0568;Gili;Paddle Board;1;252191;0;327191
+BK0569;Gili;Horse Riding;8;309546;0;3276368
+BK0570;Mentawai;Mentawai Open Trip;7;1800000;0;13125000
+BK0571;Mentawai;Mentawai Private Trip;7;2590452;0;18658164
+BK0572;Gili;Kayaking;2;445158;1;1540316
+BK0573;Gili;Horse Riding;4;426910;0;2407640
+BK0574;Gili;Horse Riding;8;311799;1;5094392
+BK0575;Gili;Paddle Board;7;353347;1;4223429
+BK0576;Mentawai;Mentawai Private Trip;2;2697599;0;5595198
+BK0577;Gili;Horse Riding;5;428367;0;2641835
+BK0578;Mentawai;Mentawai Private Trip;7;2612736;0;19514152
+BK0579;Gili;Horse Riding;6;380956;0;2285736
+BK0580;Gili;Kayaking;7;186694;0;2531858
+BK0581;Gili;Kayaking;2;281068;0;562136
+BK0582;Gili;Snorkeling Gili;9;479602;1;5666418
+BK0583;Gili;Snorkeling Gili;8;284700;0;2277600
+BK0584;Mentawai;Mentawai Private Trip;6;2588227;1;17029362
+BK0585;Gili;Horse Riding;5;325485;1;2377425
+BK0586;Mentawai;Mentawai Private Trip;8;2525437;0;20803496
+BK0587;Mentawai;Mentawai Open Trip;1;1800000;0;1900000
+BK0588;Gili;Paddle Board;9;454590;0;4091310
+BK0589;Mentawai;Mentawai Open Trip;1;1800000;1;2050000
+BK0590;Gili;Snorkeling Gili;1;266279;0;441279
+BK0591;Gili;Paddle Board;8;460762;0;4486096
+BK0592;Mentawai;Mentawai Open Trip;7;1800000;0;12600000
+BK0593;Mentawai;Mentawai Private Trip;2;2889884;1;6429768
+BK0594;Mentawai;Mentawai Open Trip;7;1800000;1;13650000
+BK0595;Gili;Paddle Board;5;409718;1;2798590
+BK0596;Gili;Snorkeling Gili;1;547698;0;647698
+BK0597;Gili;Kayaking;1;327434;1;477434
+BK0598;Gili;Horse Riding;1;357228;0;532228
+BK0599;Mentawai;Mentawai Open Trip;3;1800000;0;5925000
+BK0600;Mentawai;Mentawai Private Trip;1;2948692;0;2948692
+BK0601;Mentawai;Mentawai Private Trip;8;2916773;0;23334184
+BK0602;Mentawai;Mentawai Private Trip;6;2719385;0;16916310
+BK0603;Mentawai;Mentawai Private Trip;1;2762422;0;2937422
+BK0604;Mentawai;Mentawai Private Trip;1;2726249;0;2801249
+BK0605;Mentawai;Mentawai Private Trip;2;2903363;1;6256726
+BK0606;Gili;Horse Riding;7;355982;1;4241874
+BK0607;Mentawai;Mentawai Open Trip;4;1800000;0;7200000
+BK0608;Gili;Horse Riding;1;430494;1;580494
+BK0609;Mentawai;Mentawai Private Trip;2;2436371;0;5022742
+BK0610;Mentawai;Mentawai Private Trip;9;2466909;0;23102181
+BK0611;Gili;Paddle Board;4;204188;0;816752
+BK0612;Gili;Snorkeling Gili;5;374997;1;2999985
+BK0613;Gili;Snorkeling Gili;3;456486;0;1369458
+BK0614;Gili;Paddle Board;8;155798;0;2646384
+BK0615;Mentawai;Mentawai Private Trip;5;2443767;1;12968835
+BK0616;Gili;Paddle Board;3;212669;0;638007
+BK0617;Gili;Horse Riding;6;357227;1;3493362
+BK0618;Gili;Snorkeling Gili;2;492934;1;1435868
+BK0619;Gili;Horse Riding;5;325886;1;2379430
+BK0620;Gili;Kayaking;1;202421;0;277421
+BK0621;Mentawai;Mentawai Open Trip;1;1800000;0;1800000
+BK0622;Gili;Horse Riding;8;315333;0;3122664
+BK0623;Gili;Snorkeling Gili;6;379593;1;3777558
+BK0624;Gili;Paddle Board;6;261215;0;1567290
+BK0625;Gili;Horse Riding;7;264719;0;1853033
+BK0626;Gili;Horse Riding;1;432690;1;682690
+BK0627;Mentawai;Mentawai Open Trip;7;1800000;1;14350000
+BK0628;Gili;Snorkeling Gili;5;420863;0;2604315
+BK0629;Mentawai;Mentawai Open Trip;4;1800000;0;7500000
+BK0630;Gili;Horse Riding;8;426298;0;4010384
+BK0631;Gili;Horse Riding;3;418038;1;2229114
+BK0632;Gili;Snorkeling Gili;2;397878;0;945756
+BK0633;Mentawai;Mentawai Private Trip;8;2988089;0;23904712
+BK0634;Gili;Kayaking;8;346367;0;4170936
+BK0635;Mentawai;Mentawai Open Trip;3;1800000;0;5925000
+BK0636;Mentawai;Mentawai Open Trip;3;1800000;0;5925000
+BK0637;Mentawai;Mentawai Private Trip;7;2454730;0;17883110
+BK0638;Gili;Kayaking;2;212752;1;875504
+BK0639;Mentawai;Mentawai Private Trip;4;2508479;1;11033916
+BK0640;Gili;Horse Riding;9;382681;0;4119129
+BK0641;Gili;Horse Riding;3;389379;1;1918137
+BK0642;Gili;Horse Riding;7;346758;1;4177306
+BK0643;Mentawai;Mentawai Open Trip;1;1800000;0;1900000
+BK0644;Gili;Paddle Board;4;295558;0;1182232
+BK0645;Gili;Kayaking;7;374349;0;3845443
+BK0646;Mentawai;Mentawai Private Trip;1;2220855;0;2320855
+BK0647;Mentawai;Mentawai Private Trip;5;2323805;0;12119025
+BK0648;Gili;Snorkeling Gili;5;467282;0;2836410
+BK0649;Gili;Horse Riding;5;374954;1;3499770
+BK0650;Mentawai;Mentawai Open Trip;6;1800000;1;11700000
+BK0651;Mentawai;Mentawai Private Trip;3;2810774;1;9107322
+BK0652;Gili;Snorkeling Gili;4;507971;1;3331884
+BK0653;Mentawai;Mentawai Private Trip;9;2938591;0;27347319
+BK0654;Gili;Kayaking;5;126553;1;1757765
+BK0655;Gili;Snorkeling Gili;7;457288;0;3201016
+BK0656;Gili;Snorkeling Gili;2;348064;1;996128
+BK0657;Gili;Paddle Board;1;203306;0;278306
+BK0658;Gili;Horse Riding;1;339312;0;339312
+BK0659;Mentawai;Mentawai Open Trip;8;1800000;1;16400000
+BK0660;Mentawai;Mentawai Open Trip;3;1800000;0;5400000
+BK0661;Gili;Horse Riding;2;429515;0;1209030
+BK0662;Mentawai;Mentawai Private Trip;8;2582688;1;22461504
+BK0663;Gili;Kayaking;9;448627;0;4937643
+BK0664;Gili;Kayaking;2;367687;0;735374
+BK0665;Gili;Paddle Board;7;218843;0;1531901
+BK0666;Gili;Horse Riding;2;276270;0;552540
+BK0667;Gili;Snorkeling Gili;4;361462;1;2445848
+BK0668;Gili;Paddle Board;2;236319;1;772638
+BK0669;Gili;Horse Riding;6;330077;0;2430462
+BK0670;Gili;Snorkeling Gili;4;257697;1;1930788
+BK0671;Gili;Snorkeling Gili;5;326436;0;1632180
+BK0672;Gili;Paddle Board;7;316621;0;2741347
+BK0673;Gili;Snorkeling Gili;4;273382;1;2093528
+BK0674;Gili;Kayaking;1;252027;1;402027
+BK0675;Mentawai;Mentawai Private Trip;4;2505442;0;10021768
+BK0676;Gili;Snorkeling Gili;9;280791;1;4777119
+BK0677;Gili;Horse Riding;8;254042;0;2032336
+BK0678;Gili;Kayaking;5;443150;0;2215750
+BK0679;Gili;Paddle Board;3;300352;1;1351056
+BK0680;Gili;Snorkeling Gili;4;482520;0;2230080
+BK0681;Gili;Kayaking;9;248955;0;3815595
+BK0682;Gili;Horse Riding;8;421817;1;5374536
+BK0683;Gili;Snorkeling Gili;8;336226;0;4089808
+BK0684;Gili;Paddle Board;6;184577;0;2157462
+BK0685;Gili;Paddle Board;1;101466;0;101466
+BK0686;Mentawai;Mentawai Open Trip;9;1800000;0;16200000
+BK0687;Gili;Kayaking;9;453548;0;4756932
+BK0688;Gili;Horse Riding;1;329878;0;329878
+BK0689;Mentawai;Mentawai Open Trip;2;1800000;0;3950000
+BK0690;Mentawai;Mentawai Open Trip;4;1800000;1;8500000
+BK0691;Gili;Kayaking;4;398076;0;1892304
+BK0692;Gili;Snorkeling Gili;5;322255;0;2111275
+BK0693;Mentawai;Mentawai Open Trip;1;1800000;1;2050000
+BK0694;Gili;Paddle Board;2;122490;1;894980
+BK0695;Gili;Horse Riding;1;398099;0;398099
+BK0696;Mentawai;Mentawai Open Trip;3;1800000;1;5850000
+BK0697;Gili;Kayaking;9;410929;1;5948361
+BK0698;Gili;Horse Riding;4;336436;0;1345744
+BK0699;Mentawai;Mentawai Private Trip;6;2338442;0;14480652
+BK0700;Mentawai;Mentawai Private Trip;7;2304700;0;17357900
+BK0701;Gili;Snorkeling Gili;8;458535;0;3668280
+BK0702;Gili;Horse Riding;9;446521;0;4693689
+BK0703;Mentawai;Mentawai Open Trip;9;1800000;0;17775000
+BK0704;Mentawai;Mentawai Open Trip;2;1800000;1;4100000
+BK0705;Mentawai;Mentawai Open Trip;6;1800000;1;12750000
+BK0706;Mentawai;Mentawai Private Trip;4;2524464;1;10697856
+BK0707;Gili;Paddle Board;7;324440;1;4546080
+BK0708;Gili;Kayaking;1;419752;0;419752
+BK0709;Gili;Paddle Board;5;469119;0;3220595
+BK0710;Gili;Snorkeling Gili;3;261781;0;1310343
+BK0711;Gili;Snorkeling Gili;7;520675;1;5394725
+BK0712;Mentawai;Mentawai Open Trip;3;1800000;1;6150000
+BK0713;Gili;Horse Riding;7;303473;1;3174311
+BK0714;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0715;Mentawai;Mentawai Private Trip;9;2454371;0;22089339
+BK0716;Mentawai;Mentawai Private Trip;2;2514557;1;5329114
+BK0717;Mentawai;Mentawai Open Trip;9;1800000;1;18450000
+BK0718;Gili;Horse Riding;8;329823;1;5238584
+BK0719;Gili;Horse Riding;2;319806;1;1139612
+BK0720;Gili;Paddle Board;3;400340;0;1726020
+BK0721;Gili;Snorkeling Gili;3;502842;1;2258526
+BK0722;Gili;Paddle Board;1;496178;0;596178
+BK0723;Gili;Horse Riding;2;269023;0;688046
+BK0724;Gili;Kayaking;3;120923;1;812769
+BK0725;Gili;Snorkeling Gili;8;278756;0;2230048
+BK0726;Gili;Paddle Board;7;232447;0;2327129
+BK0727;Mentawai;Mentawai Private Trip;7;2496794;1;19052558
+BK0728;Gili;Paddle Board;7;363217;0;2542519
+BK0729;Gili;Kayaking;5;271097;0;2230485
+BK0730;Mentawai;Mentawai Private Trip;5;2791451;1;15207255
+BK0731;Gili;Kayaking;9;205468;1;3199212
+BK0732;Gili;Kayaking;7;494594;0;4162158
+BK0733;Gili;Snorkeling Gili;1;272499;0;372499
+BK0734;Mentawai;Mentawai Private Trip;2;2265756;0;4531512
+BK0735;Gili;Kayaking;3;399488;1;2173464
+BK0736;Gili;Paddle Board;6;331444;1;2888664
+BK0737;Gili;Horse Riding;9;273283;1;4709547
+BK0738;Mentawai;Mentawai Open Trip;4;1800000;0;7200000
+BK0739;Gili;Horse Riding;3;387080;0;1161240
+BK0740;Gili;Horse Riding;4;255033;0;1720132
+BK0741;Gili;Horse Riding;5;309658;0;1548290
+BK0742;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0743;Mentawai;Mentawai Open Trip;7;1800000;0;12600000
+BK0744;Mentawai;Mentawai Open Trip;7;1800000;0;13300000
+BK0745;Mentawai;Mentawai Private Trip;7;2463749;1;18996243
+BK0746;Gili;Paddle Board;6;323034;0;1938204
+BK0747;Gili;Kayaking;9;160430;0;2343870
+BK0748;Gili;Kayaking;4;484518;1;3238072
+BK0749;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0750;Mentawai;Mentawai Open Trip;2;1800000;0;3800000
+BK0751;Mentawai;Mentawai Private Trip;9;2463606;1;25097454
+BK0752;Gili;Horse Riding;3;263386;0;1090158
+BK0753;Mentawai;Mentawai Open Trip;8;1800000;1;15600000
+BK0754;Gili;Horse Riding;1;252716;0;352716
+BK0755;Gili;Kayaking;6;171916;0;1631496
+BK0756;Gili;Paddle Board;7;382152;0;3375064
+BK0757;Mentawai;Mentawai Private Trip;9;2254970;0;20294730
+BK0758;Gili;Paddle Board;4;220494;0;1181976
+BK0759;Gili;Paddle Board;1;283163;0;458163
+BK0760;Gili;Paddle Board;6;377530;0;3315180
+BK0761;Gili;Paddle Board;9;468481;1;6466329
+BK0762;Gili;Horse Riding;1;291505;0;291505
+BK0763;Gili;Snorkeling Gili;7;368686;1;4155802
+BK0764;Gili;Kayaking;1;506884;0;606884
+BK0765;Mentawai;Mentawai Private Trip;6;2869986;0;17819916
+BK0766;Gili;Kayaking;5;237126;0;1560630
+BK0767;Gili;Horse Riding;3;444152;1;2082456
+BK0768;Mentawai;Mentawai Private Trip;6;2649813;0;15898878
+BK0769;Mentawai;Mentawai Private Trip;7;2616704;1;19891928
+BK0770;Gili;Snorkeling Gili;1;260345;0;435345
+BK0771;Gili;Horse Riding;8;324807;1;4598456
+BK0772;Mentawai;Mentawai Private Trip;7;2761340;0;19854380
+BK0773;Mentawai;Mentawai Private Trip;2;2372857;0;4895714
+BK0774;Gili;Paddle Board;1;219875;0;319875
+BK0775;Gili;Kayaking;9;204186;0;2512674
+BK0776;Mentawai;Mentawai Private Trip;1;2449200;1;2774200
+BK0777;Gili;Snorkeling Gili;3;403885;0;1211655
+BK0778;Gili;Kayaking;2;237152;1;1124304
+BK0779;Gili;Kayaking;9;428910;1;5885190
+BK0780;Gili;Horse Riding;5;310892;1;2804460
+BK0781;Mentawai;Mentawai Private Trip;6;2394215;1;15265290
+BK0782;Gili;Kayaking;1;292376;1;617376
+BK0783;Gili;Kayaking;4;187245;1;1648980
+BK0784;Gili;Snorkeling Gili;1;461428;0;561428
+BK0785;Gili;Paddle Board;5;135897;1;1929485
+BK0786;Gili;Paddle Board;7;333294;0;3558058
+BK0787;Gili;Kayaking;9;201444;0;2487996
+BK0788;Gili;Horse Riding;3;350764;0;1052292
+BK0789;Mentawai;Mentawai Open Trip;2;1800000;0;3600000
+BK0790;Mentawai;Mentawai Private Trip;6;2203174;0;13219044
+BK0791;Gili;Horse Riding;1;392432;0;392432
+BK0792;Gili;Snorkeling Gili;9;393933;1;5795397
+BK0793;Gili;Horse Riding;2;338177;1;1326354
+BK0794;Gili;Snorkeling Gili;1;322394;0;497394
+BK0795;Mentawai;Mentawai Open Trip;8;1800000;1;16200000
+BK0796;Gili;Paddle Board;8;365864;1;4126912
+BK0797;Gili;Horse Riding;5;449316;0;2621580
+BK0798;Gili;Paddle Board;4;133324;0;933296
+BK0799;Gili;Paddle Board;4;173591;0;1394364
+BK0800;Mentawai;Mentawai Private Trip;7;2237394;0;16186758
+BK0801;Gili;Horse Riding;1;371169;0;471169
+BK0802;Mentawai;Mentawai Private Trip;8;2424062;0;20192496
+BK0803;Mentawai;Mentawai Open Trip;5;1800000;0;9500000
+BK0804;Mentawai;Mentawai Open Trip;1;1800000;0;1800000
+BK0805;Mentawai;Mentawai Private Trip;7;2409755;0;18093285
+BK0806;Gili;Paddle Board;7;402240;0;3515680
+BK0807;Mentawai;Mentawai Private Trip;2;2642765;1;5585530
+BK0808;Mentawai;Mentawai Private Trip;8;2235709;0;19285672
+BK0809;Gili;Paddle Board;9;319222;0;3547998
+BK0810;Gili;Kayaking;3;326486;0;979458
+BK0811;Gili;Paddle Board;4;103089;0;712356
+BK0812;Gili;Snorkeling Gili;7;487103;1;4984721
+BK0813;Mentawai;Mentawai Open Trip;7;1800000;1;14875000
+BK0814;Mentawai;Mentawai Private Trip;7;2498254;1;19762778
+BK0815;Gili;Horse Riding;6;356311;0;2737866
+BK0816;Gili;Horse Riding;6;250363;1;2852178
+BK0817;Gili;Kayaking;3;513440;1;1990320
+BK0818;Gili;Kayaking;9;496419;1;6717771
+BK0819;Mentawai;Mentawai Private Trip;6;2753351;0;17570106
+BK0820;Mentawai;Mentawai Open Trip;2;1800000;1;3900000
+BK0821;Gili;Horse Riding;8;273331;0;2186648
+BK0822;Gili;Kayaking;6;382260;1;3643560
+BK0823;Mentawai;Mentawai Open Trip;9;1800000;0;16875000
+BK0824;Gili;Paddle Board;7;273501;0;1914507
+BK0825;Mentawai;Mentawai Private Trip;8;2411655;1;21293240
+BK0826;Gili;Snorkeling Gili;8;383851;1;5070808
+BK0827;Mentawai;Mentawai Open Trip;4;1800000;0;7200000
+BK0828;Mentawai;Mentawai Private Trip;8;2971965;1;25775720
+BK0829;Gili;Paddle Board;2;451136;0;1102272
+BK0830;Gili;Kayaking;8;237799;0;1902392
+BK0831;Mentawai;Mentawai Open Trip;4;1800000;0;7600000
+BK0832;Gili;Kayaking;5;121341;1;2231705
+BK0833;Mentawai;Mentawai Open Trip;2;1800000;1;4050000
+BK0834;Mentawai;Mentawai Private Trip;6;2225938;0;14405628
+BK0835;Gili;Horse Riding;2;391900;1;1083800
+BK0836;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0837;Mentawai;Mentawai Open Trip;5;1800000;1;10625000
+BK0838;Gili;Horse Riding;7;353463;1;4049241
+BK0839;Gili;Horse Riding;6;408272;0;2449632
+BK0840;Mentawai;Mentawai Open Trip;5;1800000;1;10125000
+BK0841;Gili;Paddle Board;4;156116;1;1924464
+BK0842;Mentawai;Mentawai Private Trip;1;2357403;0;2457403
+BK0843;Gili;Kayaking;5;258177;0;1790885
+BK0844;Mentawai;Mentawai Private Trip;6;2956547;0;17739282
+BK0845;Gili;Paddle Board;9;188741;0;3273669
+BK0846;Mentawai;Mentawai Open Trip;6;1800000;1;12300000
+BK0847;Gili;Kayaking;2;453699;0;907398
+BK0848;Gili;Snorkeling Gili;9;458886;0;4129974
+BK0849;Gili;Horse Riding;4;261332;1;2345328
+BK0850;Mentawai;Mentawai Private Trip;8;2437474;0;20299792
+BK0851;Mentawai;Mentawai Open Trip;9;1800000;1;18225000
+BK0852;Gili;Horse Riding;8;449215;0;3593720
+BK0853;Gili;Paddle Board;9;422926;0;5381334
+BK0854;Gili;Snorkeling Gili;4;347493;1;2389972
+BK0855;Gili;Kayaking;7;103317;0;1248219
+BK0856;Mentawai;Mentawai Open Trip;2;1800000;0;3750000
+BK0857;Gili;Kayaking;4;133635;0;1234540
+BK0858;Gili;Kayaking;4;139236;0;1256944
+BK0859;Mentawai;Mentawai Open Trip;6;1800000;1;12150000
+BK0860;Mentawai;Mentawai Private Trip;5;2437268;1;13811340
+BK0861;Mentawai;Mentawai Private Trip;4;2989948;1;12559792
+BK0862;Mentawai;Mentawai Private Trip;1;2695395;0;2695395
+BK0863;Gili;Paddle Board;8;488333;0;4506664
+BK0864;Gili;Paddle Board;5;441701;0;2583505
+BK0865;Gili;Snorkeling Gili;5;486770;1;3683850
+BK0866;Mentawai;Mentawai Open Trip;7;1800000;0;13125000
+BK0867;Gili;Snorkeling Gili;1;462566;0;462566
+BK0868;Mentawai;Mentawai Open Trip;6;1800000;0;11250000
+BK0869;Mentawai;Mentawai Private Trip;2;2655229;0;5460458
+BK0870;Gili;Kayaking;7;302278;1;4390946
+BK0871;Gili;Kayaking;4;512375;1;3349500
+BK0872;Gili;Paddle Board;9;248178;0;2908602
+BK0873;Gili;Horse Riding;1;402192;0;502192
+BK0874;Gili;Kayaking;6;160186;0;2011116
+BK0875;Gili;Kayaking;7;295413;0;2592891
+BK0876;Gili;Kayaking;8;520661;1;6165288
+BK0877;Gili;Kayaking;9;524429;1;6969861
+BK0878;Gili;Horse Riding;4;330280;0;1721120
+BK0879;Mentawai;Mentawai Open Trip;6;1800000;0;11850000
+BK0880;Gili;Snorkeling Gili;5;341493;0;1707465
+BK0881;Gili;Kayaking;1;203619;1;428619
+BK0882;Mentawai;Mentawai Open Trip;7;1800000;1;13650000
+BK0883;Mentawai;Mentawai Open Trip;2;1800000;1;3900000
+BK0884;Gili;Horse Riding;3;338578;1;1765734
+BK0885;Gili;Horse Riding;1;325020;1;650020
+BK0886;Gili;Horse Riding;5;278552;1;2142760
+BK0887;Gili;Paddle Board;3;481186;0;1968558
+BK0888;Mentawai;Mentawai Private Trip;9;2801383;0;26112447
+BK0889;Gili;Kayaking;4;486791;0;2347164
+BK0890;Mentawai;Mentawai Open Trip;4;1800000;0;7500000
+BK0891;Mentawai;Mentawai Open Trip;8;1800000;1;16400000
+BK0892;Mentawai;Mentawai Private Trip;8;2681632;0;22053056
+BK0893;Gili;Snorkeling Gili;8;406164;0;4049312
+BK0894;Gili;Paddle Board;4;405313;0;2021252
+BK0895;Mentawai;Mentawai Open Trip;4;1800000;0;7500000
+BK0896;Gili;Kayaking;6;534044;0;3204264
+BK0897;Mentawai;Mentawai Private Trip;1;2613532;1;2838532
+BK0898;Mentawai;Mentawai Private Trip;2;2401893;0;5003786
+BK0899;Mentawai;Mentawai Private Trip;2;2683414;1;5866828
+BK0900;Gili;Paddle Board;9;332911;0;3671199
+BK0901;Mentawai;Mentawai Private Trip;7;2901865;0;20313055
+BK0902;Gili;Snorkeling Gili;3;475461;0;1726383
+BK0903;Gili;Snorkeling Gili;4;446106;1;2784424
+BK0904;Gili;Paddle Board;6;168653;0;1011918
+BK0905;Gili;Snorkeling Gili;3;277938;0;833814
+BK0906;Mentawai;Mentawai Open Trip;3;1800000;1;6150000
+BK0907;Gili;Paddle Board;5;332200;0;1661000
+BK0908;Gili;Paddle Board;4;313493;0;1253972
+BK0909;Gili;Snorkeling Gili;5;504957;0;2899785
+BK0910;Gili;Snorkeling Gili;8;396692;1;4373536
+BK0911;Mentawai;Mentawai Open Trip;8;1800000;0;14400000
+BK0912;Mentawai;Mentawai Open Trip;6;1800000;0;11250000
+BK0913;Gili;Kayaking;8;391829;0;3134632
+BK0914;Gili;Snorkeling Gili;2;311192;0;822384
+BK0915;Mentawai;Mentawai Open Trip;7;1800000;1;14350000
+BK0916;Mentawai;Mentawai Open Trip;9;1800000;1;17550000
+BK0917;Mentawai;Mentawai Private Trip;8;2946716;0;24373728
+BK0918;Mentawai;Mentawai Private Trip;2;2931672;1;6313344
+BK0919;Gili;Snorkeling Gili;3;340748;0;1322244
+BK0920;Gili;Snorkeling Gili;2;514395;0;1178790
+BK0921;Gili;Horse Riding;1;310624;1;535624
+BK0922;Gili;Horse Riding;3;254141;1;1437423
+BK0923;Gili;Snorkeling Gili;1;255577;1;480577
+BK0924;Mentawai;Mentawai Open Trip;9;1800000;0;16200000
+BK0925;Gili;Paddle Board;2;289921;0;779842
+BK0926;Gili;Paddle Board;7;462544;0;3762808
+BK0927;Mentawai;Mentawai Open Trip;4;1800000;1;7800000
+BK0928;Gili;Paddle Board;3;203535;1;1360605
+BK0929;Gili;Horse Riding;3;294565;0;1408695
+BK0930;Gili;Horse Riding;2;431711;1;1513422
+BK0931;Gili;Paddle Board;7;383445;0;2684115
+BK0932;Gili;Kayaking;1;280324;0;280324
+BK0933;Mentawai;Mentawai Open Trip;7;1800000;0;13300000
+BK0934;Gili;Paddle Board;5;488689;0;3318445
+BK0935;Gili;Paddle Board;1;436377;0;511377
+BK0936;Gili;Kayaking;1;227904;1;377904
+BK0937;Mentawai;Mentawai Open Trip;9;1800000;1;18450000
+BK0938;Gili;Paddle Board;9;123723;0;2013507
+BK0939;Mentawai;Mentawai Open Trip;6;1800000;0;11850000
+BK0940;Mentawai;Mentawai Open Trip;9;1800000;1;17550000
+BK0941;Mentawai;Mentawai Private Trip;5;2207265;1;11786325
+BK0942;Gili;Horse Riding;1;446221;1;671221
+BK0943;Mentawai;Mentawai Private Trip;9;2992473;0;26932257
+BK0944;Mentawai;Mentawai Private Trip;7;2598635;1;20465445
+BK0945;Gili;Snorkeling Gili;2;489967;0;1179934
+BK0946;Gili;Horse Riding;8;308026;1;4464208
+BK0947;Gili;Snorkeling Gili;3;448681;0;1346043
+BK0948;Gili;Kayaking;1;342113;1;667113
+BK0949;Gili;Snorkeling Gili;6;442180;0;3253080
+BK0950;Gili;Kayaking;4;476295;0;2205180
+BK0951;Gili;Paddle Board;7;358970;0;3037790
+BK0952;Gili;Paddle Board;7;451931;0;3688517
+BK0953;Mentawai;Mentawai Private Trip;7;2588742;1;19171194
+BK0954;Gili;Horse Riding;5;416862;0;2584310
+BK0955;Gili;Snorkeling Gili;2;524548;0;1049096
+BK0956;Gili;Horse Riding;1;442385;0;542385
+BK0957;Mentawai;Mentawai Open Trip;9;1800000;1;19125000
+BK0958;Gili;Snorkeling Gili;6;527749;0;3166494
+BK0959;Gili;Horse Riding;7;365631;0;3784417
+BK0960;Gili;Kayaking;7;149402;0;1045814
+BK0961;Gili;Kayaking;2;358789;0;917578
+BK0962;Mentawai;Mentawai Private Trip;3;2875025;1;9300075
+BK0963;Gili;Snorkeling Gili;4;532752;1;3031008
+BK0964;Mentawai;Mentawai Private Trip;8;2651989;0;22615912
+BK0965;Mentawai;Mentawai Private Trip;6;2440270;0;15691620
+BK0966;Gili;Kayaking;3;125345;0;676035
+BK0967;Mentawai;Mentawai Open Trip;9;1800000;0;17775000
+BK0968;Gili;Snorkeling Gili;7;344968;0;3114776
+BK0969;Gili;Horse Riding;4;431787;0;2127148
+BK0970;Gili;Paddle Board;2;249805;1;949610
+BK0971;Mentawai;Mentawai Open Trip;1;1800000;0;1875000
+BK0972;Gili;Paddle Board;7;478232;0;3347624
+BK0973;Gili;Snorkeling Gili;5;547651;0;3238255
+BK0974;Gili;Kayaking;2;273688;0;747376
+BK0975;Mentawai;Mentawai Private Trip;3;2532548;0;7897644
+BK0976;Gili;Snorkeling Gili;5;257957;1;2039785
+BK0977;Mentawai;Mentawai Private Trip;5;2727831;0;14014155
+BK0978;Mentawai;Mentawai Open Trip;7;1800000;0;13825000
+BK0979;Gili;Kayaking;2;490732;1;1431464
+BK0980;Gili;Paddle Board;9;480233;0;5897097
+BK0981;Mentawai;Mentawai Open Trip;7;1800000;0;12600000
+BK0982;Mentawai;Mentawai Open Trip;1;1800000;0;1800000
+BK0983;Gili;Paddle Board;4;294717;0;1178868
+BK0984;Gili;Paddle Board;2;150248;0;450496
+BK0985;Mentawai;Mentawai Private Trip;3;2551863;0;8180589
+BK0986;Gili;Snorkeling Gili;5;528026;1;4265130
+BK0987;Gili;Snorkeling Gili;7;357791;0;3204537
+BK0988;Gili;Kayaking;2;206410;1;1062820
+BK0989;Gili;Snorkeling Gili;9;488657;1;7322913
+BK0990;Gili;Snorkeling Gili;7;320400;1;3817800
+BK0991;Mentawai;Mentawai Open Trip;6;1800000;0;11250000
+BK0992;Gili;Kayaking;1;280109;1;530109
+BK0993;Gili;Horse Riding;6;327658;0;2415948
+BK0994;Mentawai;Mentawai Open Trip;9;1800000;1;17550000
+BK0995;Mentawai;Mentawai Open Trip;5;1800000;0;9000000
+BK0996;Mentawai;Mentawai Open Trip;7;1800000;0;13125000
+BK0997;Gili;Paddle Board;2;316682;0;783364
+BK0998;Gili;Paddle Board;3;383466;1;1600398
+BK0999;Mentawai;Mentawai Open Trip;7;1800000;1;14350000
+BK_NP0000;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0001;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0002;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0003;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0004;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0005;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0006;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0007;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0008;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0009;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0010;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0011;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0012;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0013;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0014;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0015;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0016;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0017;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0018;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0019;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0020;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0021;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0022;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0023;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0024;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0025;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0026;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0027;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0028;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0029;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0030;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0031;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0032;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0033;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0034;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0035;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0036;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0037;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0038;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0039;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0040;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0041;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0042;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0043;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0044;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0045;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0046;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0047;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0048;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0049;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0050;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0051;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0052;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0053;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0054;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0055;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0056;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0057;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0058;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0059;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0060;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0061;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0062;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0063;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0064;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0065;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0066;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0067;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0068;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0069;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0070;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0071;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0072;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0073;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0074;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0075;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0076;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0077;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0078;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0079;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0080;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0081;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0082;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0083;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0084;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0085;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0086;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0087;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0088;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0089;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0090;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0091;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0092;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0093;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0094;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0095;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0096;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0097;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0098;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0099;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0100;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0101;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0102;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0103;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0104;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0105;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0106;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0107;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0108;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0109;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0110;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0111;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0112;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0113;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0114;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0115;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0116;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0117;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0118;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0119;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0120;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0121;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0122;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0123;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0124;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0125;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0126;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0127;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0128;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0129;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0130;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0131;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0132;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0133;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0134;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0135;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0136;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0137;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0138;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0139;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0140;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0141;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0142;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0143;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0144;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0145;Nusa Penida;Nusa Penida Package 1;8;800000;1;6400000
+BK_NP0146;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0147;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0148;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0149;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0150;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0151;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0152;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0153;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0154;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0155;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0156;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0157;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0158;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0159;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0160;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0161;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0162;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0163;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0164;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0165;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0166;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0167;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0168;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0169;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0170;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0171;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0172;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0173;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0174;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0175;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0176;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0177;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0178;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0179;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0180;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0181;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0182;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0183;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0184;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0185;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0186;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0187;Nusa Penida;Nusa Penida Package 1;8;800000;1;6400000
+BK_NP0188;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0189;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0190;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0191;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0192;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0193;Nusa Penida;Nusa Penida Package 2;5;1350000;1;6750000
+BK_NP0194;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0195;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0196;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0197;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0198;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0199;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0200;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0201;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0202;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
+BK_NP0203;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0204;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0205;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0206;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0207;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0208;Nusa Penida;Nusa Penida Package 1;6;800000;1;4800000
+BK_NP0209;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0210;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0211;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0212;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0213;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0214;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0215;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0216;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0217;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0218;Nusa Penida;Nusa Penida Package 1;10;800000;1;8000000
+BK_NP0219;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0220;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0221;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0222;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0223;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0224;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0225;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0226;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0227;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0228;Nusa Penida;Nusa Penida Package 2;2;1350000;1;2700000
+BK_NP0229;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0230;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0231;Nusa Penida;Nusa Penida Package 1;1;800000;1;1600000
+BK_NP0232;Nusa Penida;Nusa Penida Package 1;4;800000;1;3200000
+BK_NP0233;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0234;Nusa Penida;Nusa Penida Package 1;8;800000;1;6400000
+BK_NP0235;Nusa Penida;Nusa Penida Package 2;10;1350000;1;13500000
+BK_NP0236;Nusa Penida;Nusa Penida Package 1;7;800000;1;5600000
+BK_NP0237;Nusa Penida;Nusa Penida Package 2;7;1350000;1;9450000
+BK_NP0238;Nusa Penida;Nusa Penida Package 1;3;800000;1;2400000
+BK_NP0239;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0240;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0241;Nusa Penida;Nusa Penida Package 1;9;800000;1;7200000
+BK_NP0242;Nusa Penida;Nusa Penida Package 2;1;1350000;1;2700000
+BK_NP0243;Nusa Penida;Nusa Penida Package 1;2;800000;1;1600000
+BK_NP0244;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0245;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0246;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0247;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0248;Nusa Penida;Nusa Penida Package 2;3;1350000;1;4050000
+BK_NP0249;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0250;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0251;Nusa Penida;Nusa Penida Package 2;9;1350000;1;12150000
+BK_NP0252;Nusa Penida;Nusa Penida Package 2;4;1350000;1;5400000
+BK_NP0253;Nusa Penida;Nusa Penida Package 2;8;1350000;1;10800000
+BK_NP0254;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0255;Nusa Penida;Nusa Penida Package 1;5;800000;1;4000000
+BK_NP0256;Nusa Penida;Nusa Penida Package 2;6;1350000;1;8100000
