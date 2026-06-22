@@ -776,7 +776,7 @@ with col_left:
     st.markdown('<div id="kriteria-input"></div>', unsafe_allow_html=True)
     st.markdown("""
         <div class="home-btn-wrapper">
-        <a href="http://127.0.0.1:8000" target="_self">&#8592; Kembali ke Beranda</a>
+        <a href="https://corporateescaper.infokand23.my.id/" target="_self">&#8592; Kembali ke Beranda</a>
     </div>
     """, unsafe_allow_html=True)
     st.markdown('<div class="panel-badge input-badge">Input Kriteria Perjalanan</div>', unsafe_allow_html=True)
