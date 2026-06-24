@@ -745,6 +745,42 @@ details.notes-box .notes-row:first-child { padding-top: 0; }
 .cmp-table li { padding: 3px 0; line-height: 1.5; }
 
 ::selection { background: var(--accent); color: var(--primary); }
+
+/* ── Booking button ── */
+.booking-btn-wrapper {
+    margin-top: 28px;
+    padding-top: 24px;
+    border-top: 1.5px solid var(--border);
+    text-align: center;
+}
+.booking-btn-wrapper a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: linear-gradient(135deg, #EAA93E 0%, #c9891a 100%);
+    color: #113431 !important;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px; font-weight: 800;
+    letter-spacing: 1.5px; text-transform: uppercase;
+    padding: 15px 36px;
+    border-radius: 14px;
+    text-decoration: none !important;
+    box-shadow: 0 6px 20px rgba(234,169,62,.35);
+    transition: transform 0.2s, box-shadow 0.2s, filter 0.2s;
+    width: 100%;
+}
+.booking-btn-wrapper a:hover {
+    filter: brightness(1.08);
+    box-shadow: 0 10px 28px rgba(234,169,62,.45);
+    transform: translateY(-2px);
+    color: #113431 !important;
+}
+.booking-btn-sub {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px; color: var(--muted);
+    margin-top: 10px; letter-spacing: 0.5px;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -1152,44 +1188,36 @@ with col_right:
                     import streamlit.components.v1 as components
                     components.html(f"""<!DOCTYPE html>
 <html><head><style>
-  body{{margin:0;padding:4px 0 0 0;background:transparent;}}
-  .copy-btn{{
-    font-family:'Inter',sans-serif;font-size:10.5px;font-weight:700;
-    letter-spacing:.8px;text-transform:uppercase;
-    background:#f4f7f6;border:1.5px solid #D8E6E3;
-    color:#113431;border-radius:10px;
-    padding:8px 14px;cursor:pointer;
-    transition:background .2s,border-color .2s;
-  }}
-  .copy-btn:hover{{background:#e8f0ee;border-color:#113431;}}
-  .copy-btn.ok{{background:#d4edda;border-color:#28a745;color:#155724;}}
-</style></head>
-<body>
+body{{margin:0;padding:4px 0 0 0;background:transparent;}}
+.copy-btn{{font-family:'Inter',sans-serif;font-size:10.5px;font-weight:700;
+  letter-spacing:.8px;text-transform:uppercase;
+  background:#f4f7f6;border:1.5px solid #D8E6E3;
+  color:#113431;border-radius:10px;padding:8px 14px;cursor:pointer;
+  transition:background .2s,border-color .2s;}}
+.copy-btn:hover{{background:#e8f0ee;border-color:#113431;}}
+.copy-btn.ok{{background:#d4edda;border-color:#28a745;color:#155724;}}
+</style></head><body>
 <button class="copy-btn" id="cb" onclick="doCopy()">&#128203;&nbsp;Salin Ringkasan</button>
 <script>
-var txt = {js_payload};
+var txt={js_payload};
 function doCopy(){{
-  var btn = document.getElementById('cb');
-  if(navigator.clipboard && navigator.clipboard.writeText){{
+  var btn=document.getElementById('cb');
+  if(navigator.clipboard&&navigator.clipboard.writeText){{
     navigator.clipboard.writeText(txt).then(function(){{showOk(btn);}}).catch(function(){{fallback(btn);}});
-  }} else {{ fallback(btn); }}
+  }}else{{fallback(btn);}}
 }}
 function fallback(btn){{
-  var ta = document.createElement('textarea');
-  ta.value = txt;
-  ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0.01;width:1px;height:1px;';
-  document.body.appendChild(ta);
-  ta.focus(); ta.select();
-  try{{ document.execCommand('copy'); showOk(btn); }}catch(e){{ btn.innerText='Gagal - Coba lagi'; }}
+  var ta=document.createElement('textarea');
+  ta.value=txt;ta.style.cssText='position:fixed;top:0;left:0;opacity:0.01;width:1px;height:1px;';
+  document.body.appendChild(ta);ta.focus();ta.select();
+  try{{document.execCommand('copy');showOk(btn);}}catch(e){{btn.innerText='Gagal';}}
   document.body.removeChild(ta);
 }}
 function showOk(btn){{
-  btn.innerHTML='&#10003;&nbsp;Tersalin!';
-  btn.classList.add('ok');
+  btn.innerHTML='&#10003;&nbsp;Tersalin!';btn.classList.add('ok');
   setTimeout(function(){{btn.innerHTML='&#128203;&nbsp;Salin Ringkasan';btn.classList.remove('ok');}},2000);
 }}
-</script>
-</body></html>""", height=48)
+</script></body></html>""", height=48)
 
                     # ── Perbandingan Side-by-Side: pilih maks. 2 paket ──
                     st.markdown('<div class="cmp-marker"></div>', unsafe_allow_html=True)
@@ -1208,3 +1236,13 @@ function showOk(btn){{
                 elif len(selected_idx) == 2:
                     chosen = [card_entries[idx - 1] for idx in selected_idx]
                     render_compare_table(chosen)
+
+        # ── Booking Button ──
+        st.markdown("""
+        <div class="booking-btn-wrapper">
+            <a href="https://corporateescaper.infokand23.my.id/booking" target="_blank">
+                &#128197;&nbsp; Pesan Sekarang
+            </a>
+            <div class="booking-btn-sub">Lanjutkan ke halaman pemesanan resmi</div>
+        </div>
+        """, unsafe_allow_html=True)
