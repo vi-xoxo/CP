@@ -775,8 +775,8 @@ col_left, col_right = st.columns([4, 5], gap="small")
 with col_left:
     st.markdown('<div id="kriteria-input"></div>', unsafe_allow_html=True)
     st.markdown("""
-        <div class="home-btn-wrapper">
-        <a href="https://corporateescaper.infokand23.my.id/" target="_self">&#8592; Kembali ke Beranda</a>
+    <div class="home-btn-wrapper">
+        <a href="https://corporateescaper.infokand23.my.id/" onclick="try{window.top.location.href='https://corporateescaper.infokand23.my.id/';}catch(e){window.location.href='https://corporateescaper.infokand23.my.id/';}return false;">&#8592; Kembali ke Beranda</a>
     </div>
     """, unsafe_allow_html=True)
     st.markdown('<div class="panel-badge input-badge">Input Kriteria Perjalanan</div>', unsafe_allow_html=True)
@@ -1135,16 +1135,6 @@ with col_right:
                     summary_lines.append("via Corporate Escaper")
                     summary_text = "\n".join(summary_lines).replace("'", "’")
                     js_payload   = json.dumps(summary_text)
-                    copy_btn_html = (
-                        '<div class="rcard-actions">'
-                        "<button type=\"button\" class=\"copy-btn\" onclick='navigator.clipboard.writeText("
-                        + js_payload +
-                        ").then(()=>{const t=this.innerHTML;this.innerHTML=\"&#10003;&nbsp;Tersalin!\";"
-                        "setTimeout(()=>{this.innerHTML=t;},1800);})'>"
-                        "&#128203;&nbsp;Salin Ringkasan</button>"
-                        '</div>'
-                    )
-
                     st.markdown(f"""
                     <div class="{card_cls}">
                         <div class="{badge_cls}">{badge_txt}</div>
@@ -1157,9 +1147,49 @@ with col_right:
                             <div class="{bar_cls}" style="width:{min(pct,100):.1f}%"></div>
                         </div>
                         {notes_html}
-                        {copy_btn_html}
                     </div>
                     """, unsafe_allow_html=True)
+                    import streamlit.components.v1 as components
+                    components.html(f"""<!DOCTYPE html>
+<html><head><style>
+  body{{margin:0;padding:4px 0 0 0;background:transparent;}}
+  .copy-btn{{
+    font-family:'Inter',sans-serif;font-size:10.5px;font-weight:700;
+    letter-spacing:.8px;text-transform:uppercase;
+    background:#f4f7f6;border:1.5px solid #D8E6E3;
+    color:#113431;border-radius:10px;
+    padding:8px 14px;cursor:pointer;
+    transition:background .2s,border-color .2s;
+  }}
+  .copy-btn:hover{{background:#e8f0ee;border-color:#113431;}}
+  .copy-btn.ok{{background:#d4edda;border-color:#28a745;color:#155724;}}
+</style></head>
+<body>
+<button class="copy-btn" id="cb" onclick="doCopy()">&#128203;&nbsp;Salin Ringkasan</button>
+<script>
+var txt = {js_payload};
+function doCopy(){{
+  var btn = document.getElementById('cb');
+  if(navigator.clipboard && navigator.clipboard.writeText){{
+    navigator.clipboard.writeText(txt).then(function(){{showOk(btn);}}).catch(function(){{fallback(btn);}});
+  }} else {{ fallback(btn); }}
+}}
+function fallback(btn){{
+  var ta = document.createElement('textarea');
+  ta.value = txt;
+  ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0.01;width:1px;height:1px;';
+  document.body.appendChild(ta);
+  ta.focus(); ta.select();
+  try{{ document.execCommand('copy'); showOk(btn); }}catch(e){{ btn.innerText='Gagal - Coba lagi'; }}
+  document.body.removeChild(ta);
+}}
+function showOk(btn){{
+  btn.innerHTML='&#10003;&nbsp;Tersalin!';
+  btn.classList.add('ok');
+  setTimeout(function(){{btn.innerHTML='&#128203;&nbsp;Salin Ringkasan';btn.classList.remove('ok');}},2000);
+}}
+</script>
+</body></html>""", height=48)
 
                     # ── Perbandingan Side-by-Side: pilih maks. 2 paket ──
                     st.markdown('<div class="cmp-marker"></div>', unsafe_allow_html=True)
